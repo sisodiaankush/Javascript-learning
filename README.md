@@ -1,3 +1,3 @@
 # Javascript-learning
 learning javascript
-Auhor-Ankush Kumar
+Author-Ankush Kumar
