@@ -1,4 +1,4 @@
 # Javascript-learning
 learning javascript
 <br>
-Author-Ankush sisodia
+Author-Ankush kumar singh

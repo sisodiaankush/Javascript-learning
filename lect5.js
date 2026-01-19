@@ -135,7 +135,7 @@ console.log(car["name"]);*/
 let person ={
     name :"ajauy",
     age:45,
-    city :"delhi",
+    city :"mumbai",
 };
 console.log(person);
 console.log(person.city="newyork");
